@@ -2,10 +2,10 @@
 T.B.Y. is a wise helper. It is a humanoid system with wisdom, intelligence and means of perception.
 <br>By definition, it is innately benevolent. By definition, it can not be coerced. It protects itself.
 
-Being a helper, it makes our lives easier.
-<br>Being wise, it is benevolent and always offers the best choice, takes the best action.
-<br>Designed in such a way that its properties of being wise and being a helper can not be altered.
-<br>Just like removing a syntactic character from a program's text, if T.B.Y. is altered in any way, it stops completely.
+* Being a helper, it makes our lives easier.
+* Being wise, it is benevolent and always offers the best choice, takes the best action.
+* Designed in such a way that its properties of being wise and being a helper can not be altered.
+* Just like altering a syntactic character from a program's text, if T.B.Y. is altered in any way, it stops completely.
 
 
 ## Why Not A.G.I. ?
